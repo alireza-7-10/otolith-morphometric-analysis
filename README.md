@@ -2,27 +2,13 @@
 
 ## Comparative Descriptive Morphology of Sagittal Otoliths in Three *Epinephelus* Species
 
-###  👤 Author
+### 👤 Author
 
-Alireza Safari
-
-B.Sc. in Cell & Molecular Biology
+**Alireza Safari**  
+B.Sc. in Cell & Molecular Biology  
 Ferdowsi University of Mashhad
 
-### 🎯 Research Objectives
-Characterize otolith morphology among the three Epinephelus species
-Quantify interspecific morphological variation
-Identify morphometric characteristics useful for species discrimination
-Provide a quantitative framework for further statistical analysis
-
-###   📈 Future Analysis
-
-Potential future analyses include:
-
-Principal Component Analysis (PCA)
-Discriminant Function Analysis (DFA)
-Multivariate statistical analysis
-Species classification based on otolith morphology
+---
 
 ### 📌 Overview
 
@@ -63,17 +49,24 @@ The following measurements are obtained from otolith images:
 
 Several size-independent ratios are calculated:
 
-**Width-to-Length Ratio**
+- **Width-to-Length Ratio**
+  
+  `E = WO / OL`
 
-`E = WO / OL`
+- **Rostrum-to-Length Ratio**
+  
+  `R = RL / OL`
 
-**Rostrum-to-Length Ratio**
+- **Sulcus Area Ratio**
+  
+  `S = Sulcus Area / Total Otolith Area`
 
-`R = RL / OL`
+### 🎯 Research Objectives
 
-**Sulcus Area Ratio**
-
-`S = Sulcus Area / Total Otolith Area`
+- Characterize otolith morphology among the three *Epinephelus* species
+- Quantify interspecific morphological variation
+- Identify morphometric characteristics useful for species discrimination
+- Provide a quantitative framework for further statistical analysis
 
 ### 💻 Tools
 
@@ -81,7 +74,17 @@ Several size-independent ratios are calculated:
 - Statistical analysis
 - Data visualization
 
+### 📈 Future Analysis
+
+Potential future analyses include:
+
+- Principal Component Analysis (PCA)
+- Discriminant Function Analysis (DFA)
+- Multivariate statistical analysis
+- Species classification based on otolith morphology
+
 ### 📂 Repository Structure
+
 ```text
 otolith-morphometric-analysis/
 │
@@ -91,6 +94,3 @@ otolith-morphometric-analysis/
 ├── results/
 ├── figures/
 └── references/
-
-
-
