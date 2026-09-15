@@ -2,6 +2,28 @@
 
 ## Comparative Descriptive Morphology of Sagittal Otoliths in Three *Epinephelus* Species
 
+###  👤 Author
+
+Alireza Safari
+
+B.Sc. in Cell & Molecular Biology
+Ferdowsi University of Mashhad
+
+### 🎯 Research Objectives
+Characterize otolith morphology among the three Epinephelus species
+Quantify interspecific morphological variation
+Identify morphometric characteristics useful for species discrimination
+Provide a quantitative framework for further statistical analysis
+
+###   📈 Future Analysis
+
+Potential future analyses include:
+
+Principal Component Analysis (PCA)
+Discriminant Function Analysis (DFA)
+Multivariate statistical analysis
+Species classification based on otolith morphology
+
 ### 📌 Overview
 
 This project presents a morphometric analysis of sagittal otoliths from three
@@ -60,7 +82,7 @@ Several size-independent ratios are calculated:
 - Data visualization
 
 ### 📂 Repository Structure
-
+```text
 otolith-morphometric-analysis/
 │
 ├── README.md
@@ -70,22 +92,5 @@ otolith-morphometric-analysis/
 ├── figures/
 └── references/
 
-### 🎯 Research Objectives
-Characterize otolith morphology among the three Epinephelus species
-Quantify interspecific morphological variation
-Identify morphometric characteristics useful for species discrimination
-Provide a quantitative framework for further statistical analysis
-###   📈 Future Analysis
 
-Potential future analyses include:
 
-Principal Component Analysis (PCA)
-Discriminant Function Analysis (DFA)
-Multivariate statistical analysis
-Species classification based on otolith morphology
-###  👤 Author
-
-Alireza Safari
-
-B.Sc. in Cell & Molecular Biology
-Ferdowsi University of Mashhad
