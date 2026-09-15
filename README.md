@@ -61,7 +61,6 @@ Several size-independent ratios are calculated:
 
 ### 📂 Repository Structure
 
-```text
 otolith-morphometric-analysis/
 │
 ├── README.md
