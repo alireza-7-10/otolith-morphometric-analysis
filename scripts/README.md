@@ -1,23 +1,17 @@
-# Otolith Morphometric Analysis of Three Epinephelus Species
+# Scripts
 
-This repository contains the data, scripts, and results for an undergraduate thesis titled:
-**"Comparative Descriptive Morphology of Otoliths in Three Epinephelus Species from the Persian Gulf and Gulf of Oman"**
+This folder contains Python scripts for analyzing otolith morphometric data.
 
-## Author
-- **Alireza Safari** (Undergraduate Student, Biology)
-- Supervisor: **Dr. Faezeh Yazdani Moghaddam**
-- Institution: Ferdowsi University of Mashhad
+## descriptive_analysis.py
+This script performs the following tasks:
+1. Reads processed data from `data/processed/otolith_descriptive_indices.csv`
+2. Calculates descriptive statistics (mean, standard deviation, min, max) for E, R, and S indices
+3. Saves the summary table in the `results/` folder
+4. Plots comparative boxplots between the three species and saves them in the `figures/` folder
 
-## Repository Structure
-- `data/raw/`: Raw data files
-- `data/processed/`: Cleaned and processed data (`otolith_descriptive_indices.csv`)
-- `scripts/`: Python scripts for statistical analysis and plotting
-- `results/`: Output summary tables
-- `figures/`: Generated boxplots and figures
-- `references/`: Related papers and resources
-
-## Usage
-To reproduce the analysis, install the dependencies and run the script:
+**How to run:**
+From the project root folder, run the following command:
 ```bash
-pip install -r requirements.txt
 python scripts/descriptive_analysis.py
+Make sure the required libraries are installed:
+pip install pandas matplotlib seaborn
