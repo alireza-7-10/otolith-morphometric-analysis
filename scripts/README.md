@@ -13,7 +13,5 @@ This script performs the following tasks:
 From the project root folder, run the following command:
 ```bash
 python scripts/descriptive_analysis.py
-**Dependencies**
-Make sure the required libraries are installed:Dependencies
 Make sure the required libraries are installed:
 pip install pandas matplotlib seaborn
