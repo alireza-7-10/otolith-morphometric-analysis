@@ -94,3 +94,13 @@ otolith-morphometric-analysis/
 ├── results/
 ├── figures/
 └── references/
+```
+###🚀How to Run
+1.Install the required dependencies:
+pip install -r requirements.txt
+
+2.Run the analysis script:
+python scripts/descriptive_analysis.py
+
+###📜License
+This project is licensed under the MIT License.
