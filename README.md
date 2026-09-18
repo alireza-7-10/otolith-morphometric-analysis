@@ -1,5 +1,7 @@
 # Otolith Morphometric Analysis
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22830466.svg)](https://doi.org/10.5281/zenodo.22830466)
+
 ## Comparative Descriptive Morphology of Sagittal Otoliths in Three *Epinephelus* Species
 
 ### 👤 Author
